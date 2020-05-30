@@ -1,0 +1,18 @@
+Project Scope:
+Project Summary
+Life expectancy is a statistical measure of the average time a human being is expected to live.The goal was to create a model that could predict the average life expectancy of a person in a given country on a given year based on a number of variables such as year, GDP, education, alcohol intake of people in the country, expenditure on healthcare system and some specific disease related deaths that happened in the country are given.Life expectancy depends on various factors:Regional variations, Economic Circumstances, Sex Differences, Mental Illnesses, Physical Illnesses, Education, Year of their birth and other demographic factors.
+
+Project Requirements
+Collect data about various factors that affect life expectancy and predict the value.
+
+Functional Requirements
+Should predict the right value once all the data has been collected.
+
+Technical Requirements
+Python,IBM Cloud,IBM Watson,Machine Learning
+
+Project Deliverables
+Document outilining the work done.Project demonstration video.
+
+Project Schedule
+The work has to be done in a months time.
